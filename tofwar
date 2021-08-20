@@ -1,0 +1,17 @@
+{
+  "title": "Tenderness of Winter",
+  "description": "يلتفي مؤلف قصصٍ مصورة (مانهوا) لنوع حب الفتيان مع فتًى يستخدمه كمصدر إلهامٍ لعمله القادم، كان مصدر إلهامه طويلاً ووسيماً، مما جعله يقع بحبه",  
+  "artist": "Hua Xue Tang Wu",
+  "author": "Hua Xue Tang Wu",
+  "cover": "https://imgur.com/hNnxEik.png",
+  "chapters": {
+"1": {
+      "title": "البطل الرئيسي (هجوم!)",
+      "volume": "الموسم الأول",
+      "groups": {
+        "Hansoo": "/proxy/api/imgur/chapter/9oRkISY/"
+      },
+      "last_updated": "1616368746"
+    }
+  }
+}
