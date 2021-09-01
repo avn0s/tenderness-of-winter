@@ -5,9 +5,17 @@
   "author": "Hua Xue Tang Wu",
   "cover": "https://imgur.com/f1FmiYi.png",
   "chapters": {
+  "2": {
+      "title": "جمال العالم",
+      "volume": "1",
+      "groups": {
+        "Hansoo": "/proxy/api/imgur/chapter/DlQr6QQ/"
+      },
+      "last_updated": "1630529912"
+    },
 "1": {
       "title": "البطل الرئيسي (هجوم!)",
-      "volume": "الموسم الأول",
+      "volume": "1",
       "groups": {
         "Hansoo": "/proxy/api/imgur/chapter/HeaxtuD/"
       },
