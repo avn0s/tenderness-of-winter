@@ -5,6 +5,14 @@
   "author": "Hua Xue Tang Wu",
   "cover": "https://imgur.com/f1FmiYi.png",
   "chapters": {
+  "3": {
+      "title": "كالنور",
+      "volume": "1",
+      "groups": {
+        "Hansoo": "/proxy/api/imgur/chapter/BqZMakj/"
+      },
+      "last_updated": "1635013547"
+    },
   "2.5": {
       "title": "إكسترا",
       "volume": "1",
